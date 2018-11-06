@@ -47,3 +47,5 @@ Vulnerability #2: Cross-Site Request Forgery
 ## Notes
 
 Describe any challenges encountered while doing the work
+
+It took me some time to find out about the hacktool to find the session ID, and I had to look up how to create the HTML script for changing the user data.
